@@ -2,4 +2,4 @@ Current weather and next 5 days weather information for **London** location deve
 
 Laravel Blade components, Tailwind CSS, Laravel Vite etc.
 
-![image](https://github.com/ssnatu/weatherApp/assets/31346079/2a8d4483-227e-4843-b7ce-5a06b6054c60)
+![image](https://github.com/ssnatu/weatherApp/assets/31346079/e417339f-1475-4cd5-b1b0-f98d159d3ec1)
