@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <button class="absolute right-0 bottom-0 mb-2 mr-2 text-xs">Toggle</button>
+            {{-- <button class="absolute right-0 bottom-0 mb-2 mr-2 text-xs">Toggle</button> --}}
         </div> <!-- current-weather -->
         <div class="bg-gradient-to-b from-gray-800 to-indigo-400 px-4 py-6 space-y-8">
             @foreach ($futureWeather as $weather)
