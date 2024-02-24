@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.current-weather-icon {
+    filter: invert(100%) contrast(150%);
+}
